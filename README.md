@@ -12,7 +12,9 @@ Welcome to the Exploding Kitten Game, an engaging online single-player card game
 - **Losing Condition:** Encounter an Exploding Kitten card and lose the game.
 
 ## Demo
-Check out our [https://frontend-explodie-kitten-5hwg.vercel.app/] to experience the game firsthand.
+Check out our [link is here](https://frontend-explodie-kitten-5hwg.vercel.app/) to experience the game firsthand.
+
+
 ## Screenshots
 ![Screenshot 2024-03-17 042334](https://github.com/sachin2398/exploiding-kitten-full-stack/assets/113828281/62b43e40-a9e1-4ad5-a9fa-78a88ce019cf)
 
