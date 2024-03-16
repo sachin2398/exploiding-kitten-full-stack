@@ -1,5 +1,5 @@
 {
-  "name": "exploding-kitten-game",
+  "name": "exploding-kitten-full-stack",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server.js"
    
   },
-  "author": "Sonu Bhatt",
+  "author": "sachin kumar singh",
   "license": "MIT",
   "engines": {
     "node": "14.x"
